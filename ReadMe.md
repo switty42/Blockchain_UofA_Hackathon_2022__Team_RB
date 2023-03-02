@@ -14,7 +14,7 @@ https://www.youtube.com/live/nNTCnQ0CxLc?feature=share&t=4335
 Many thanks to Mycelium Networks for not only sponsoring the Hackathon use case, but also providing aid and technical support to the team.
 
 
-<img src="Pics/RB_Hackathon.jpg" width="400"> &nbsp; &nbsp; <img src="Pics/RB_Team.jpg" width="400"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="Pics/Mycelium.png" width="100">
+<img src="Pics/RB_Team.jpg" width="325> &nbsp; &nbsp; <img src="Pics/RB_Hackathon.jpg" width="325"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="Pics/Mycelium.png" width="100">
 
 
 The slide presentation and project source code can be found in this repository.  Project source code should be considered POC only.
